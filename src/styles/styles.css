@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+.App{
+    text-align: center;
+    color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.App:hover{
+    border: 1px solid aqua;
+}
